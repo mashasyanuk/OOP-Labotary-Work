@@ -1,0 +1,12 @@
+/Users/emc2/Projects/Labotary_3_Lists/Labotary_3_Lists/obj/Debug/netcoreapp3.1/Labotary_3_Lists.csprojAssemblyReference.cache
+/Users/emc2/Projects/Labotary_3_Lists/Labotary_3_Lists/obj/Debug/netcoreapp3.1/Labotary_3_Lists.csproj.CoreCompileInputs.cache
+/Users/emc2/Projects/Labotary_3_Lists/Labotary_3_Lists/obj/Debug/netcoreapp3.1/Labotary_3_Lists.AssemblyInfoInputs.cache
+/Users/emc2/Projects/Labotary_3_Lists/Labotary_3_Lists/obj/Debug/netcoreapp3.1/Labotary_3_Lists.AssemblyInfo.cs
+/Users/emc2/Projects/Labotary_3_Lists/Labotary_3_Lists/bin/Debug/netcoreapp3.1/Labotary_3_Lists.deps.json
+/Users/emc2/Projects/Labotary_3_Lists/Labotary_3_Lists/bin/Debug/netcoreapp3.1/Labotary_3_Lists.runtimeconfig.json
+/Users/emc2/Projects/Labotary_3_Lists/Labotary_3_Lists/bin/Debug/netcoreapp3.1/Labotary_3_Lists.runtimeconfig.dev.json
+/Users/emc2/Projects/Labotary_3_Lists/Labotary_3_Lists/bin/Debug/netcoreapp3.1/Labotary_3_Lists.dll
+/Users/emc2/Projects/Labotary_3_Lists/Labotary_3_Lists/bin/Debug/netcoreapp3.1/Labotary_3_Lists.pdb
+/Users/emc2/Projects/Labotary_3_Lists/Labotary_3_Lists/obj/Debug/netcoreapp3.1/Labotary_3_Lists.dll
+/Users/emc2/Projects/Labotary_3_Lists/Labotary_3_Lists/obj/Debug/netcoreapp3.1/Labotary_3_Lists.pdb
+/Users/emc2/Projects/Labotary_3_Lists/Labotary_3_Lists/obj/Debug/netcoreapp3.1/Labotary_3_Lists.genruntimeconfig.cache
