@@ -291,7 +291,7 @@ public class Program
 
         for (int i = 0; i < n; i++)
         {
-            if (pro_list[i].IsEqual(name, price, manufacturer, age, moredata))
+            if (pro_list[i].CloseToEqual(name, price, manufacturer, age, moredata))
             {
                 Console.WriteLine("Частичное совпадение найдено: ");
                 pro_list[i].Print();
