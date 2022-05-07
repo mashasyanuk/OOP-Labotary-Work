@@ -1,0 +1,12 @@
+/Users/emc2/Projects/Labotary_4_StackQueue/Labotary_4_StackQueue/bin/Debug/netcoreapp3.1/Labotary_4_StackQueue.deps.json
+/Users/emc2/Projects/Labotary_4_StackQueue/Labotary_4_StackQueue/bin/Debug/netcoreapp3.1/Labotary_4_StackQueue.runtimeconfig.json
+/Users/emc2/Projects/Labotary_4_StackQueue/Labotary_4_StackQueue/bin/Debug/netcoreapp3.1/Labotary_4_StackQueue.runtimeconfig.dev.json
+/Users/emc2/Projects/Labotary_4_StackQueue/Labotary_4_StackQueue/bin/Debug/netcoreapp3.1/Labotary_4_StackQueue.dll
+/Users/emc2/Projects/Labotary_4_StackQueue/Labotary_4_StackQueue/bin/Debug/netcoreapp3.1/Labotary_4_StackQueue.pdb
+/Users/emc2/Projects/Labotary_4_StackQueue/Labotary_4_StackQueue/obj/Debug/netcoreapp3.1/Labotary_4_StackQueue.csprojAssemblyReference.cache
+/Users/emc2/Projects/Labotary_4_StackQueue/Labotary_4_StackQueue/obj/Debug/netcoreapp3.1/Labotary_4_StackQueue.csproj.CoreCompileInputs.cache
+/Users/emc2/Projects/Labotary_4_StackQueue/Labotary_4_StackQueue/obj/Debug/netcoreapp3.1/Labotary_4_StackQueue.AssemblyInfoInputs.cache
+/Users/emc2/Projects/Labotary_4_StackQueue/Labotary_4_StackQueue/obj/Debug/netcoreapp3.1/Labotary_4_StackQueue.AssemblyInfo.cs
+/Users/emc2/Projects/Labotary_4_StackQueue/Labotary_4_StackQueue/obj/Debug/netcoreapp3.1/Labotary_4_StackQueue.dll
+/Users/emc2/Projects/Labotary_4_StackQueue/Labotary_4_StackQueue/obj/Debug/netcoreapp3.1/Labotary_4_StackQueue.pdb
+/Users/emc2/Projects/Labotary_4_StackQueue/Labotary_4_StackQueue/obj/Debug/netcoreapp3.1/Labotary_4_StackQueue.genruntimeconfig.cache

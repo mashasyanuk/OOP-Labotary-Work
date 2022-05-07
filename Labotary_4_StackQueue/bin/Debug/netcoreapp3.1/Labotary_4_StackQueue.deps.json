@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Labotary_4_StackQueue/1.0.0": {
+        "runtime": {
+          "Labotary_4_StackQueue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Labotary_4_StackQueue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
