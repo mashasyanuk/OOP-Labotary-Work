@@ -1,0 +1,12 @@
+/Users/emc2/Projects/LR6_OOP/LR6_OOP/bin/Debug/netcoreapp3.1/LR6_OOP.deps.json
+/Users/emc2/Projects/LR6_OOP/LR6_OOP/bin/Debug/netcoreapp3.1/LR6_OOP.runtimeconfig.json
+/Users/emc2/Projects/LR6_OOP/LR6_OOP/bin/Debug/netcoreapp3.1/LR6_OOP.runtimeconfig.dev.json
+/Users/emc2/Projects/LR6_OOP/LR6_OOP/bin/Debug/netcoreapp3.1/LR6_OOP.dll
+/Users/emc2/Projects/LR6_OOP/LR6_OOP/bin/Debug/netcoreapp3.1/LR6_OOP.pdb
+/Users/emc2/Projects/LR6_OOP/LR6_OOP/obj/Debug/netcoreapp3.1/LR6_OOP.csprojAssemblyReference.cache
+/Users/emc2/Projects/LR6_OOP/LR6_OOP/obj/Debug/netcoreapp3.1/LR6_OOP.csproj.CoreCompileInputs.cache
+/Users/emc2/Projects/LR6_OOP/LR6_OOP/obj/Debug/netcoreapp3.1/LR6_OOP.AssemblyInfoInputs.cache
+/Users/emc2/Projects/LR6_OOP/LR6_OOP/obj/Debug/netcoreapp3.1/LR6_OOP.AssemblyInfo.cs
+/Users/emc2/Projects/LR6_OOP/LR6_OOP/obj/Debug/netcoreapp3.1/LR6_OOP.dll
+/Users/emc2/Projects/LR6_OOP/LR6_OOP/obj/Debug/netcoreapp3.1/LR6_OOP.pdb
+/Users/emc2/Projects/LR6_OOP/LR6_OOP/obj/Debug/netcoreapp3.1/LR6_OOP.genruntimeconfig.cache
